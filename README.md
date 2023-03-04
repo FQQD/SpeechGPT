@@ -10,3 +10,9 @@ https://platform.openai.com/account/api-keys
 Depends on:
 
 sudo apt-get install pulseaudio python3-pyaudio
+
+
+
+Command Example: "Muffin, tell me a joke!"
+
+If you have any problems, create a issue, and I will suffer with you.
